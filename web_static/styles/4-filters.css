@@ -1,0 +1,25 @@
+i/*
+*filter style
+*/
+section{
+	color: white;
+	height: 70%;
+	width: 100%
+	border: 1px solid #DDDDDD;
+	border-radius: 4px;
+}
+.filters button{
+	#background: FF5A5F;
+	font-size: 18px;
+	color: #FFFFFF;
+	height: 48px;
+	width: 20%;
+	border-radius: 4px;
+	margin: 12px 30px;
+	font-size: 18px;
+	float: right;
+	border: none;
+}
+.filters button:hover{
+	background-color: rgba( 255, 90, 95, .9);
+}
